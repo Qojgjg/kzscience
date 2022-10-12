@@ -27,4 +27,4 @@
 <br>
 
 # <b> 📊  Stats
-[![kzscience GitHub stats](https://github-readme-stats.vercel.app/api?username=kzscience)](https://github.com/kzscience/github-readme-stats)
+[![kzscience GitHub stats](https://github-readme-stats.vercel.app/api?username=kzscience&show_icons=true&theme=tokyonight))](https://github.com/kzscience/github-readme-stats)
