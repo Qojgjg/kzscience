@@ -34,7 +34,7 @@
 
 <br>
 
-<h1 align= 'center' class='Statistics'> <b> 📊 Stats </h1>
+<h1 align= 'center' class='Statistics'> <b> 📊 Statistics </h1>
 
 [![kzscience's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kzscience&theme=tokyonight)](https://git.io/praveenscience)
 
