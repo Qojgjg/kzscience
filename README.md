@@ -1,21 +1,30 @@
 [![Header](https://github.com/kzscience/kzscience/blob/main/assets/Header.png)](https://www.youtube.com/channel/UCqLVSSl_m2u1f_z8GB9rQlA)
 
-<h1> <b> 💡 Skills </h1> 
-<a href= https://github.com/kzscience664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/kzscience664?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<a href= https://github.com/kzscience664?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/kzscience664?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/kzscience664?tab=repositories&q=&type=&language=django&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/django.svg'> </a>
+<h1> <b> 💡 Languages </h1> 
+<a href= https://github.com/kzscience?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='assets/icons/languages/python.svg'> </a>
+<a href= https://github.com/kzscience?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='assets/icons/languages/cplusplus.svg'> </a>
+<a href= https://github.com/kzscience?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='assets/icons/languages/css.svg'> </a>
+<a href= https://github.com/kzscience?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='assets/icons/languages/html.svg'> </a>
+
 
 <br>
 
 # <b> 🌐  Social
 
 ## <b> 🔒 Personal
- [![Twitter](https://img.shields.io/badge/-Twitter-ecf0f1?style=for-the-badge&logo=Twitter)](https://twitter.com/_qypshaq_?t=7koAIFgiKIh_dfg_0IIRLg&s=35) [![Steam](https://img.shields.io/badge/-Steam-2980b9?style=for-the-badge&logo=Steam)](https://steamcommunity.com/id/QypshaQ/) [![Facebook](https://img.shields.io/badge/-Facebook-ecf0f1?style=for-the-badge&logo=Facebook)](https://www.facebook.com/nurkaliyevdinmukhamed)   [![Instagram](https://img.shields.io/badge/-Instagram-fbfcfc?style=for-the-badge&logo=Instagram)](https://www.instagram.com/_nurkaliyev_dinmukhamed_/?next=%2F) 
+
+<a href = 'https://www.facebook.com/nurkaliyevdinmukhamed'> <img width = '32px' align= 'center' src="assets/icons/Social/twitter.svg"/></a> 
+<a href = 'https://twitter.com/_qypshaq_?t=7koAIFgiKIh_dfg_0IIRLg&s=35'> <img width = '32px' align= 'center' src="assets/icons/Social/steam.svg"/></a> 
+<a href = 'https://www.instagram.com/_nurkaliyev_dinmukhamed_/?next=%2F'> <img width = '32px' align= 'center' src="assets/icons/Social/instagram.svg"/></a> 
+<a href = 'https://www.facebook.com/nurkaliyevdinmukhamed'> <img width = '32px' align= 'center' src="assets/icons/Social/facebook.svg"/></a> 
+
 
 ## <b> 🔓 Public
-[![Youtube](https://img.shields.io/badge/-Youtube-cb4335?style=for-the-badge&logo=Youtube)](https://www.youtube.com/channel/UCqLVSSl_m2u1f_z8GB9rQlA) [![Patreon](https://img.shields.io/badge/-Patreon-FFFFFF?style=for-the-badge&logo=Patreon)](https://www.patreon.com/user/creators?u=62215525) [![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=Instagram)](https://www.instagram.com/qypshaq_kazakh/?next=%2F_nurkaliyev_dinmukhamed_%2F) [![Facebook](https://img.shields.io/badge/-Facebook-ecf0f1?style=for-the-badge&logo=Facebook)](https://www.facebook.com/QypshaQ/)
+
+<a href = 'https://www.youtube.com/channel/UCqLVSSl_m2u1f_z8GB9rQlA'> <img width = '32px' align= 'center' src="assets/icons/Social/youtube.svg"/></a>
+<a href = 'https://www.patreon.com/user/creators?u=62215525'> <img width = '32px' align= 'center' src="assets/icons/Social/patreon.svg"/></a> 
+<a href = 'https://www.instagram.com/qypshaq_kazakh/?next=%2F_nurkaliyev_dinmukhamed_%2F'> <img width = '32px' align= 'center' src="assets/icons/Social/instagram.svg"/></a> 
+<a href = 'https://www.facebook.com/QypshaQ/'> <img width = '32px' align= 'center' src="assets/icons/Social/facebook.svg"/></a>   
 
 
 <br>
