@@ -2,7 +2,7 @@
 
 <div align= 'center' class='Languages'> 
 
-<h1> <b> <img width = '32px' align= 'vertical-align' src="assets/icons/translate.svg"/> Languages </h1> 
+<h1> <b> <img width = '32px' align= 'center' src="assets/icons/translate.svg"/> Languages </h1> 
 
 <a href = 'https://github.com/kzscience?tab=repositories'> <img width = '32px' align= 'center' src="assets/icons/Languages/python.svg"/></a> 
 <a href = 'https://github.com/kzscience?tab=repositories'> <img width = '32px' align= 'center' src="assets/icons/Languages/cplusplus.svg"/></a> 
@@ -13,7 +13,7 @@
 <br>
 
 <div align= 'center' class='Social'>
-<h1> <b> <img width = '32px' align= 'vertical-align' src="assets/icons/contacts.svg"/>  Social </h1>
+<h1> <b> <img width = '32px' align= 'center' src="assets/icons/contacts.svg"/>  Social </h1>
 
 <h2> <b> 🔒 Personal </h2>
 
