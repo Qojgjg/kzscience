@@ -1,10 +1,10 @@
 [![Header](https://github.com/kzscience/kzscience/blob/main/assets/Header.png)](https://www.youtube.com/channel/UCqLVSSl_m2u1f_z8GB9rQlA)
 
 <h1> <b> 💡 Languages </h1> 
-<a href= https://github.com/kzscience?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='assets/icons/languages/python.svg'> </a>
-<a href= https://github.com/kzscience?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='assets/icons/languages/cplusplus.svg'> </a>
-<a href= https://github.com/kzscience?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='assets/icons/languages/css.svg'> </a>
-<a href= https://github.com/kzscience?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='assets/icons/languages/html.svg'> </a>
+<img width ='32px' src ='assets/icons/languages/python.svg'>
+<img width ='32px' src ='assets/icons/languages/cplusplus.svg'> 
+<img width ='32px' src ='assets/icons/languages/css.svg'> 
+<img width ='32px' src ='assets/icons/languages/html.svg'>
 
 
 <br>
