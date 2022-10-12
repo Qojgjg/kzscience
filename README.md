@@ -8,7 +8,7 @@
 ### <b> Nickname: QypshaQ
 ### <b> Nationality: Kazakh
 
-<hr>
+<br>
 
  # <b> ⚙️ Languages and Tools 
 
@@ -18,7 +18,4 @@
 
 # <b> 🌐 Follow Me
 
-
-
-
-
+[![Youtube](https://img.shields.io/badge/-Youtube-cb4335?style=for-the-badge&logo=Youtube)](https://www.youtube.com/channel/UCqLVSSl_m2u1f_z8GB9rQlA) [![Twitter](https://img.shields.io/badge/-Twitter-ecf0f1?style=for-the-badge&logo=Twitter)](https://twitter.com/_qypshaq_?t=7koAIFgiKIh_dfg_0IIRLg&s=35) [![Steam](https://img.shields.io/badge/-Steam-2980b9?style=for-the-badge&logo=Steam)](https://steamcommunity.com/id/QypshaQ/) [![Facebook](https://img.shields.io/badge/-Facebook-ecf0f1?style=for-the-badge&logo=Facebook)](https://www.facebook.com/nurkaliyevdinmukhamed) [![Patreon](https://img.shields.io/badge/-Patreon-17202a?style=for-the-badge&logo=Patreon)](https://www.patreon.com/user/creators?u=62215525)
