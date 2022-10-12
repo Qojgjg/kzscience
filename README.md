@@ -24,4 +24,7 @@
 ## <b> 🔓 Public
 [![Youtube](https://img.shields.io/badge/-Youtube-cb4335?style=for-the-badge&logo=Youtube)](https://www.youtube.com/channel/UCqLVSSl_m2u1f_z8GB9rQlA) [![Patreon](https://img.shields.io/badge/-Patreon-FFFFFF?style=for-the-badge&logo=Patreon)](https://www.patreon.com/user/creators?u=62215525) [![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=Instagram)](https://www.instagram.com/qypshaq_kazakh/?next=%2F_nurkaliyev_dinmukhamed_%2F) [![Facebook](https://img.shields.io/badge/-Facebook-ecf0f1?style=for-the-badge&logo=Facebook)](https://www.facebook.com/QypshaQ/)
 
+<br>
+
+# <b> 📊  Stats
 [![kzscience GitHub stats](https://github-readme-stats.vercel.app/api?username=kzscience)](https://github.com/kzscience/github-readme-stats)
