@@ -1,11 +1,5 @@
 [![Header](https://github.com/kzscience/kzscience/blob/main/assets/Header.png)](https://www.youtube.com/channel/UCqLVSSl_m2u1f_z8GB9rQlA)
 
-<style>
-h3 {
- text-align:center
-}
-</style>
-
 
 # <b> 📒 About Me</b>
 
