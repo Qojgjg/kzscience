@@ -13,7 +13,7 @@
 <br>
 
 <div align= 'center' class='Social'>
-<h1> <b> 🌐  Social </h1>
+<h1> <b> <img width = '32px' align= 'center' src="assets/icons/contacts.svg"/>  Social </h1>
 
 <h2> <b> 🔒 Personal </h2>
 
@@ -34,7 +34,7 @@
 
 <br>
 
-<h1 align= 'center' class='Stats'> <b> 📊 Stats </h1>
+<h1 align= 'center' class='Statistics'> <b> 📊 Stats </h1>
 
 [![kzscience's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kzscience&theme=tokyonight)](https://git.io/praveenscience)
 
