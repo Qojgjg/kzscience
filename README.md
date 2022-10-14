@@ -32,14 +32,14 @@
 <h1 align='center'> <b> 🌐 Social </h1>
 
 
-<div style="font-size:20px"> <b> 🔒 Personal </div> 
+<h3> <b> 🔒 Personal </h3> 
 
 <a href = 'https://www.facebook.com/nurkaliyevdinmukhamed'> <img width = '40px'  src="assets/icons/Social/twitter.svg"/></a> 
 <a href = 'https://twitter.com/_qypshaq_?t=7koAIFgiKIh_dfg_0IIRLg&s=35'> <img width = '40px'  src="assets/icons/Social/steam.svg"/></a> 
 <a href = 'https://www.instagram.com/_nurkaliyev_dinmukhamed_/?next=%2F'> <img width = '40px'  src="assets/icons/Social/instagram.svg"/></a> 
 <a href = 'https://www.facebook.com/nurkaliyevdinmukhamed'> <img width = '40px'  src="assets/icons/Social/facebook.svg"/></a>  
 
-<div style="font-size:20px"> <b> 🔓 Public </div>
+<h3> <b> 🔓 Public </h3>
 
 <a href = 'https://www.youtube.com/channel/UCqLVSSl_m2u1f_z8GB9rQlA'> <img width = '40px'  src="assets/icons/Social/youtube.svg"/></a>
 <a href = 'https://www.patreon.com/user/creators?u=62215525'> <img width = '40px'  src="assets/icons/Social/patreon.svg"/></a> 
