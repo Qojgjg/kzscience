@@ -1,30 +1,8 @@
+<link rel="stylesheet" href="style.css">
+
 [![Header](https://github.com/kzscience/kzscience/blob/main/assets/Header.png)](https://www.youtube.com/channel/UCqLVSSl_m2u1f_z8GB9rQlA)
 
-<style>
-*{
-    text-align: center;
-}
 
-.Skills{
-    display: flex;
-    flex-direction: row;
-    justify-content: center;    
-}
-.Languages{
-    padding-right: 20px;
-}
-
-.Social{
-    display: flex;
-    flex-direction: row;
-    justify-content: center;    
-}
-
-.Personal{
-    padding-right: 20px;
-}
-
-</style>
 
 [comment]: <> (My Skills,Tools,Language)
 
