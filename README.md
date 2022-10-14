@@ -4,14 +4,6 @@
 
 <em>
 
-<h1 align='center'> <b> 👤 About me </h1>
-📒 First Name: Dinmukhamed (Dimash) Second Name: Nurkaliyev 
-<br>
-🪪 Nationality: Kazakh
-<br>
-🌎 Language: Kazakh, Russian, English
-<br>
-🔍 Nickname: QypshaQ, 
 
 [comment]: <> (My Skills,Tools,Language)
 
