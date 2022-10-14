@@ -20,6 +20,8 @@
 <a href = 'https://github.com/kzscience?tab=repositories'> <img width = '40px'  src="assets/icons/Tools/git.svg"/></a>
 
 
+[comment]: <> (Projects)
+
 <h1 align='center'> <b> ⚙️ Projects </h1>
 -
 
@@ -46,9 +48,6 @@
 <a href = 'https://www.patreon.com/user/creators?u=62215525'> <img width = '40px'  src="assets/icons/Social/patreon.svg"/></a> 
 <a href = 'https://www.instagram.com/qypshaq_kazakh/?next=%2F_nurkaliyev_dinmukhamed_%2F'> <img width = '40px'  src="assets/icons/Social/instagram.svg"/></a> 
 <a href = 'https://www.facebook.com/QypshaQ/'> <img width = '40px'  src="assets/icons/Social/facebook.svg"/></a>   
-
-
-<br>
 
 
 [comment]: <> (Just GitHub Statistics)
