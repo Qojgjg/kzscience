@@ -11,7 +11,7 @@
 <br>
 🌎 Language: Kazakh, Russian, English
 <br>
-Nickname: QypshaQ, 
+🔍 Nickname: QypshaQ, 
 
 [comment]: <> (My Skills,Tools,Language)
 
